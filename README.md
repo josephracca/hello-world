@@ -1,2 +1,2 @@
 # hello-world
-My given name is Joseph Aaron Racca, Jr. and I was established in 1990.
+Just another repository, okay this time, we need to really write out new info.
